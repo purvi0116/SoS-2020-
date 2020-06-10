@@ -15,3 +15,4 @@
     2.Neural Net Visualization (NetworkVisualization-PyTorch.ipynb)<br/>
     3.Style Transfer (StyleTrasfer-PyTorch.ipynb)<br/>
     4.Generative Adversarial Networks (GANs-PyTorch.ipynb)<br/>
+  ( I will soon add other assignments too )   
