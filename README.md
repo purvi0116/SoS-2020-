@@ -3,7 +3,7 @@
 # Coursera_Assignments
  This folder contains the assignment solutions to the Programming Assignments (Week 3 and Week 4) of Coursera Course -  
  Convolutional Neural Networks taught by Andrew NG.
- /n It contains :
+ It contains :
     1. Car Detection using YOLO
     2. Neural Style Transfer
     3. Face Reconition
